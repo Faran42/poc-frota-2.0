@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 
 import background from "../../commom/images/bg-login.jpg";
@@ -41,14 +40,4 @@ export const Input = styled.input`
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #ddd;
-`;
-
-export const Button = styled.button`
-  width: 100%;
-  padding: 10px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
 `;
